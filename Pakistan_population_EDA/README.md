@@ -104,7 +104,7 @@ Pakistan_population_EDA/
 ### Clone Repository
 
 ```bash
-git clone <>
+git clone <https://github.com/isaifullah/Data_analysis_projects/tree/main/Pakistan_population_EDA>
 cd Pakistan_population_EDA
 ```
 
